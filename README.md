@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nandisharmistha
 - 👀 I’m interested in test automation
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python automation tests (API and Selenium)
-- 📫 How to reach me - sharmistha_nandi3@yahoo.co.in
+- 🌱 I’m learning Python, Robot Framework, Cypress, and the list goes on
+- 💞️ I’m looking to collaborate on Python/Cypress automation tests (API and Selenium)
+- 📫 How to reach me - sharmistha_nandi3@yahoo.co.in, sharmistha.nandi3@gmail.com
 
 <!---
 nandisharmistha/nandisharmistha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
